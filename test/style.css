@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: white;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.brand-name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a img {
+    vertical-align: middle;
+    margin-right: 5px;
+}
